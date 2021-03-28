@@ -1,0 +1,1 @@
+SELECT * FROM saimaamir_guitar_shop.order_item_products;
